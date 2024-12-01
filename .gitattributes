@@ -1,0 +1,4 @@
+dataset/cleaned.csv filter=lfs diff=lfs merge=lfs -text
+dataset/cyclists.csv filter=lfs diff=lfs merge=lfs -text
+dataset/merged.csv filter=lfs diff=lfs merge=lfs -text
+dataset/races.csv filter=lfs diff=lfs merge=lfs -text
