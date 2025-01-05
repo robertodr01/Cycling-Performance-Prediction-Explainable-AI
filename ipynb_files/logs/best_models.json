@@ -1,0 +1,117 @@
+[
+    {
+        "model": "Decision Tree",
+        "hyperparams": {
+            "criterion": "entropy",
+            "max_depth": null,
+            "min_samples_leaf": 1,
+            "min_samples_split": 2
+        },
+        "loss": null,
+        "accuracy": 0.7336590005187619,
+        "report": [
+            "              precision    recall  f1-score   support",
+            "",
+            "           0       0.88      0.80      0.84     19668",
+            "           1       0.25      0.38      0.30      3464",
+            "",
+            "    accuracy                           0.73     23132",
+            "   macro avg       0.56      0.59      0.57     23132",
+            "weighted avg       0.78      0.73      0.76     23132",
+            ""
+        ],
+        "dataset": "SMOTE"
+    },
+    {
+        "model": "knn",
+        "hyperparams": {
+            "metric": "euclidean",
+            "n_neighbors": 1,
+            "weights": "uniform"
+        },
+        "loss": null,
+        "accuracy": 0.633365035448729,
+        "report": [
+            "              precision    recall  f1-score   support",
+            "",
+            "           0       0.90      0.64      0.75     19668",
+            "           1       0.23      0.60      0.33      3464",
+            "",
+            "    accuracy                           0.63     23132",
+            "   macro avg       0.56      0.62      0.54     23132",
+            "weighted avg       0.80      0.63      0.69     23132",
+            ""
+        ],
+        "dataset": "UNDER_ENN_OVER_SMOTE"
+    },
+    {
+        "model": "Neural Network",
+        "hyperparams": {
+            "hidden_layers": [
+                64,
+                64,
+                64,
+                2
+            ],
+            "learning_rate": 0.01,
+            "weight_decay": 1e-05
+        },
+        "loss": 0.6099029049833781,
+        "accuracy": 0.6932820335466021,
+        "report": [
+            "              precision    recall  f1-score   support",
+            "",
+            "           0       0.93      0.69      0.79     19668",
+            "           1       0.28      0.69      0.40      3464",
+            "",
+            "    accuracy                           0.69     23132",
+            "   macro avg       0.61      0.69      0.60     23132",
+            "weighted avg       0.83      0.69      0.74     23132",
+            ""
+        ],
+        "dataset": "UNDER_ENN_OVER_SMOTE"
+    },
+    {
+        "model": "Bagging",
+        "hyperparams": {
+            "max_samples": 1.0,
+            "n_estimators": 100
+        },
+        "loss": null,
+        "accuracy": 0.7428670240359675,
+        "report": [
+            "              precision    recall  f1-score   support",
+            "",
+            "           0       0.92      0.77      0.84     19668",
+            "           1       0.31      0.61      0.41      3464",
+            "",
+            "    accuracy                           0.74     23132",
+            "   macro avg       0.62      0.69      0.63     23132",
+            "weighted avg       0.83      0.74      0.77     23132",
+            ""
+        ],
+        "dataset": "UNDER_ENN_OVER_SMOTE"
+    },
+    {
+        "model": "Boosting",
+        "hyperparams": {
+            "algorithm": "SAMME",
+            "learning_rate": 1.0,
+            "n_estimators": 500
+        },
+        "loss": null,
+        "accuracy": 0.662675082137299,
+        "report": [
+            "              precision    recall  f1-score   support",
+            "",
+            "           0       0.91      0.67      0.77     19668",
+            "           1       0.25      0.65      0.36      3464",
+            "",
+            "    accuracy                           0.66     23132",
+            "   macro avg       0.58      0.66      0.57     23132",
+            "weighted avg       0.82      0.66      0.71     23132",
+            ""
+        ],
+        "dataset": "UNDER_ENN_OVER_SMOTE"
+    }
+]

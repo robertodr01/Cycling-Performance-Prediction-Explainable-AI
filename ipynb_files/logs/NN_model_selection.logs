@@ -1,0 +1,1572 @@
+UNDER_TOMEK_OVER_SMOTE
+label == 1:  48320
+label == 0:  48320
+test:  1
+100%|██████████| 5/5 [00:22<00:00,  4.57s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.80      0.88      9794
+           1       0.83      0.97      0.89      9534
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.88     19328
+weighted avg       0.90      0.89      0.88     19328
+
+100%|██████████| 5/5 [00:23<00:00,  4.62s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.81      0.88      9583
+           1       0.84      0.98      0.90      9745
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.28s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.79      0.88      9609
+           1       0.83      0.99      0.90      9719
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:24<00:00,  4.84s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.79      0.88      9620
+           1       0.82      0.99      0.90      9708
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.57s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.80      0.88      9714
+           1       0.83      0.99      0.90      9614
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+First hidden Dim=32, LR=0.001, Avg Accuracy=0.8899
+test:  2
+100%|██████████| 5/5 [00:24<00:00,  4.98s/it]
+              precision    recall  f1-score   support
+
+           0       0.96      0.80      0.87      9794
+           1       0.83      0.97      0.89      9534
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.89      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:23<00:00,  4.64s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.81      0.88      9583
+           1       0.84      0.98      0.90      9745
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.31s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.80      0.88      9609
+           1       0.83      0.98      0.90      9719
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.33s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.80      0.87      9620
+           1       0.83      0.97      0.90      9708
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.88     19328
+weighted avg       0.90      0.89      0.88     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.47s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.80      0.88      9714
+           1       0.83      0.99      0.90      9614
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+First hidden Dim=32, LR=0.001, Avg Accuracy=0.8890
+test:  3
+100%|██████████| 5/5 [00:23<00:00,  4.62s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.79      0.88      9794
+           1       0.82      0.99      0.90      9534
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:23<00:00,  4.78s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.80      0.89      9583
+           1       0.83      1.00      0.91      9745
+
+    accuracy                           0.90     19328
+   macro avg       0.91      0.90      0.90     19328
+weighted avg       0.91      0.90      0.90     19328
+
+100%|██████████| 5/5 [00:28<00:00,  5.72s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.79      0.88      9609
+           1       0.83      0.99      0.90      9719
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:24<00:00,  4.91s/it]
+              precision    recall  f1-score   support
+
+           0       0.95      0.81      0.87      9620
+           1       0.83      0.96      0.89      9708
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.88      0.88     19328
+weighted avg       0.89      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.34s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.79      0.88      9714
+           1       0.82      1.00      0.90      9614
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+First hidden Dim=64, LR=0.001, Avg Accuracy=0.8905
+test:  4
+100%|██████████| 5/5 [00:21<00:00,  4.31s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.79      0.88      9794
+           1       0.82      0.99      0.90      9534
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:23<00:00,  4.77s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.80      0.88      9583
+           1       0.83      0.99      0.91      9745
+
+    accuracy                           0.90     19328
+   macro avg       0.91      0.90      0.90     19328
+weighted avg       0.91      0.90      0.90     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.54s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.79      0.87      9609
+           1       0.83      0.98      0.90      9719
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.27s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.78      0.88      9620
+           1       0.82      0.99      0.90      9708
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:23<00:00,  4.61s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.79      0.88      9714
+           1       0.83      0.99      0.90      9614
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+First hidden Dim=64, LR=0.001, Avg Accuracy=0.8909
+test:  5
+100%|██████████| 5/5 [00:23<00:00,  4.73s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.80      0.88      9794
+           1       0.83      0.98      0.90      9534
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:23<00:00,  4.80s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.81      0.88      9583
+           1       0.84      0.98      0.90      9745
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:24<00:00,  4.88s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.79      0.88      9609
+           1       0.83      0.99      0.90      9719
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.51s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.80      0.87      9620
+           1       0.83      0.98      0.90      9708
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.50s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.79      0.88      9714
+           1       0.83      0.99      0.90      9614
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+First hidden Dim=128, LR=0.001, Avg Accuracy=0.8896
+test:  6
+100%|██████████| 5/5 [00:22<00:00,  4.41s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.79      0.88      9794
+           1       0.82      0.99      0.90      9534
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.52s/it]
+              precision    recall  f1-score   support
+
+           0       0.89      0.84      0.87      9583
+           1       0.85      0.90      0.87      9745
+
+    accuracy                           0.87     19328
+   macro avg       0.87      0.87      0.87     19328
+weighted avg       0.87      0.87      0.87     19328
+
+100%|██████████| 5/5 [00:23<00:00,  4.72s/it]
+              precision    recall  f1-score   support
+
+           0       0.94      0.82      0.87      9609
+           1       0.84      0.95      0.89      9719
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.88      0.88     19328
+weighted avg       0.89      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:24<00:00,  4.82s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.78      0.88      9620
+           1       0.82      0.99      0.90      9708
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.41s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.80      0.88      9714
+           1       0.83      0.99      0.90      9614
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+First hidden Dim=128, LR=0.001, Avg Accuracy=0.8844
+test:  7
+  0%|          | 0/5 [00:04<?, ?it/s]
+              precision    recall  f1-score   support
+
+           0       0.95      0.81      0.87      9794
+           1       0.83      0.95      0.89      9534
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.88      0.88     19328
+weighted avg       0.89      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:23<00:00,  4.64s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.80      0.89      9583
+           1       0.84      0.99      0.91      9745
+
+    accuracy                           0.90     19328
+   macro avg       0.91      0.90      0.90     19328
+weighted avg       0.91      0.90      0.90     19328
+
+100%|██████████| 5/5 [00:23<00:00,  4.73s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.80      0.88      9609
+           1       0.83      0.98      0.90      9719
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:23<00:00,  4.77s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.79      0.88      9620
+           1       0.82      0.99      0.90      9708
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:23<00:00,  4.67s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.79      0.88      9714
+           1       0.83      0.99      0.90      9614
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+First hidden Dim=256, LR=0.001, Avg Accuracy=0.8891
+test:  8
+100%|██████████| 5/5 [00:23<00:00,  4.66s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.80      0.88      9794
+           1       0.83      0.98      0.90      9534
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:23<00:00,  4.62s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.79      0.88      9583
+           1       0.83      0.99      0.90      9745
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.42s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.80      0.88      9609
+           1       0.83      0.97      0.90      9719
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.46s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.79      0.88      9620
+           1       0.82      0.99      0.90      9708
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.38s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.80      0.88      9714
+           1       0.83      0.98      0.89      9614
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+First hidden Dim=256, LR=0.001, Avg Accuracy=0.8887
+test:  9
+100%|██████████| 5/5 [00:25<00:00,  5.16s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.78      0.88      9794
+           1       0.82      0.99      0.90      9534
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.11s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.80      0.89      9583
+           1       0.84      0.99      0.91      9745
+
+    accuracy                           0.90     19328
+   macro avg       0.91      0.90      0.90     19328
+weighted avg       0.91      0.90      0.90     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.11s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.78      0.88      9609
+           1       0.82      1.00      0.90      9719
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.10s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.79      0.87      9620
+           1       0.83      0.98      0.90      9708
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:26<00:00,  5.23s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.79      0.88      9714
+           1       0.82      0.99      0.90      9614
+
+    accuracy                           0.89     19328
+   macro avg       0.91      0.89      0.89     19328
+weighted avg       0.91      0.89      0.89     19328
+
+First hidden Dim=512, LR=0.001, Avg Accuracy=0.8906
+test:  10
+100%|██████████| 5/5 [00:25<00:00,  5.11s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.79      0.88      9794
+           1       0.82      0.99      0.90      9534
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.07s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.80      0.88      9583
+           1       0.83      0.99      0.91      9745
+
+    accuracy                           0.90     19328
+   macro avg       0.91      0.90      0.89     19328
+weighted avg       0.91      0.90      0.89     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.07s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.80      0.88      9609
+           1       0.83      0.97      0.90      9719
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.07s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.79      0.88      9620
+           1       0.82      0.99      0.90      9708
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.19s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.80      0.88      9714
+           1       0.83      0.98      0.90      9614
+
+    accuracy                           0.89     19328
+   macro avg       0.90      0.89      0.89     19328
+weighted avg       0.90      0.89      0.89     19328
+
+First hidden Dim=512, LR=0.001, Avg Accuracy=0.8898
+Best Model: First Hidden Dim=64, LR=0.001, Weight Decay=1e-05, Accuracy=0.8909
+UNDER_ENN_OVER_SMOTE
+label == 1:  48320
+label == 0:  48320
+test:  1
+100%|██████████| 5/5 [00:22<00:00,  4.59s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.88      0.93      9794
+           1       0.89      0.99      0.94      9534
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.37s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.88      0.93      9583
+           1       0.89      0.99      0.94      9745
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.56s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.89      0.94      9609
+           1       0.90      0.99      0.94      9719
+
+    accuracy                           0.94     19328
+   macro avg       0.95      0.94      0.94     19328
+weighted avg       0.95      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.38s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.88      0.93      9620
+           1       0.89      1.00      0.94      9708
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.36s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.94      9714
+           1       0.89      1.00      0.94      9614
+
+    accuracy                           0.94     19328
+   macro avg       0.95      0.94      0.94     19328
+weighted avg       0.95      0.94      0.94     19328
+
+First hidden Dim=32, LR=0.001, Avg Accuracy=0.9385
+test:  2
+100%|██████████| 5/5 [00:21<00:00,  4.38s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.93      9794
+           1       0.89      1.00      0.94      9534
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.32s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.88      0.93      9583
+           1       0.89      0.99      0.94      9745
+
+    accuracy                           0.93     19328
+   macro avg       0.94      0.93      0.93     19328
+weighted avg       0.94      0.93      0.93     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.33s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.89      0.94      9609
+           1       0.90      0.99      0.94      9719
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.36s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.93      9620
+           1       0.89      1.00      0.94      9708
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.37s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.93      9714
+           1       0.89      1.00      0.94      9614
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+First hidden Dim=32, LR=0.001, Avg Accuracy=0.9374
+test:  3
+100%|██████████| 5/5 [00:21<00:00,  4.34s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.93      9794
+           1       0.89      1.00      0.94      9534
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.34s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.93      9583
+           1       0.89      1.00      0.94      9745
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.42s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.94      9609
+           1       0.90      1.00      0.94      9719
+
+    accuracy                           0.94     19328
+   macro avg       0.95      0.94      0.94     19328
+weighted avg       0.95      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.33s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.93      9620
+           1       0.89      1.00      0.94      9708
+
+    accuracy                           0.94     19328
+   macro avg       0.95      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.34s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.89      0.94      9714
+           1       0.90      0.99      0.94      9614
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+First hidden Dim=64, LR=0.001, Avg Accuracy=0.9384
+test:  4
+100%|██████████| 5/5 [00:21<00:00,  4.35s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.88      0.93      9794
+           1       0.89      0.99      0.94      9534
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.33s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.88      0.93      9583
+           1       0.89      0.99      0.94      9745
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.34s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.89      0.93      9609
+           1       0.90      0.98      0.94      9719
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.33s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.89      0.93      9620
+           1       0.90      0.98      0.94      9708
+
+    accuracy                           0.93     19328
+   macro avg       0.94      0.93      0.93     19328
+weighted avg       0.94      0.93      0.93     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.48s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.89      0.94      9714
+           1       0.90      0.99      0.94      9614
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+First hidden Dim=64, LR=0.001, Avg Accuracy=0.9369
+test:  5
+100%|██████████| 5/5 [00:22<00:00,  4.48s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.88      0.93      9794
+           1       0.89      0.99      0.94      9534
+
+    accuracy                           0.93     19328
+   macro avg       0.94      0.94      0.93     19328
+weighted avg       0.94      0.93      0.93     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.40s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.88      0.93      9583
+           1       0.90      0.98      0.94      9745
+
+    accuracy                           0.93     19328
+   macro avg       0.94      0.93      0.93     19328
+weighted avg       0.94      0.93      0.93     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.54s/it]
+              precision    recall  f1-score   support
+
+           0       0.95      0.90      0.93      9609
+           1       0.91      0.96      0.93      9719
+
+    accuracy                           0.93     19328
+   macro avg       0.93      0.93      0.93     19328
+weighted avg       0.93      0.93      0.93     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.37s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.88      0.93      9620
+           1       0.89      1.00      0.94      9708
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.38s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.89      0.94      9714
+           1       0.90      0.99      0.94      9614
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+First hidden Dim=128, LR=0.001, Avg Accuracy=0.9346
+test:  6
+100%|██████████| 5/5 [00:21<00:00,  4.35s/it]
+              precision    recall  f1-score   support
+
+           0       0.96      0.89      0.93      9794
+           1       0.90      0.96      0.93      9534
+
+    accuracy                           0.93     19328
+   macro avg       0.93      0.93      0.93     19328
+weighted avg       0.93      0.93      0.93     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.36s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.93      9583
+           1       0.89      1.00      0.94      9745
+
+    accuracy                           0.94     19328
+   macro avg       0.95      0.94      0.94     19328
+weighted avg       0.95      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.33s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.89      0.93      9609
+           1       0.90      0.98      0.94      9719
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.35s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.93      9620
+           1       0.89      1.00      0.94      9708
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.52s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.89      0.94      9714
+           1       0.90      0.99      0.94      9614
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+First hidden Dim=128, LR=0.001, Avg Accuracy=0.9360
+test:  7
+ 40%|████      | 2/5 [00:13<00:20,  6.90s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.89      0.93      9794
+           1       0.89      0.99      0.94      9534
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+  0%|          | 0/5 [00:04<?, ?it/s]
+              precision    recall  f1-score   support
+
+           0       0.99      0.87      0.93      9583
+           1       0.89      0.99      0.94      9745
+
+    accuracy                           0.93     19328
+   macro avg       0.94      0.93      0.93     19328
+weighted avg       0.94      0.93      0.93     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.44s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.94      9609
+           1       0.90      1.00      0.94      9719
+
+    accuracy                           0.94     19328
+   macro avg       0.95      0.94      0.94     19328
+weighted avg       0.95      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.41s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.89      0.93      9620
+           1       0.90      0.98      0.94      9708
+
+    accuracy                           0.93     19328
+   macro avg       0.94      0.93      0.93     19328
+weighted avg       0.94      0.93      0.93     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.36s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.89      0.94      9714
+           1       0.90      0.99      0.94      9614
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+First hidden Dim=256, LR=0.001, Avg Accuracy=0.9361
+test:  8
+100%|██████████| 5/5 [00:23<00:00,  4.63s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.88      0.93      9794
+           1       0.89      0.99      0.94      9534
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.56s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.88      0.93      9583
+           1       0.89      0.99      0.94      9745
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.93      0.93     19328
+weighted avg       0.94      0.94      0.93     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.41s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.89      0.93      9609
+           1       0.90      0.98      0.94      9719
+
+    accuracy                           0.93     19328
+   macro avg       0.94      0.93      0.93     19328
+weighted avg       0.94      0.93      0.93     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.35s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.93      9620
+           1       0.89      1.00      0.94      9708
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:23<00:00,  4.62s/it]
+              precision    recall  f1-score   support
+
+           0       0.96      0.89      0.93      9714
+           1       0.90      0.97      0.93      9614
+
+    accuracy                           0.93     19328
+   macro avg       0.93      0.93      0.93     19328
+weighted avg       0.93      0.93      0.93     19328
+
+First hidden Dim=256, LR=0.001, Avg Accuracy=0.9351
+test:  9
+100%|██████████| 5/5 [00:25<00:00,  5.06s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.88      0.93      9794
+           1       0.89      0.99      0.94      9534
+
+    accuracy                           0.93     19328
+   macro avg       0.94      0.94      0.93     19328
+weighted avg       0.94      0.93      0.93     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.05s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.93      9583
+           1       0.89      1.00      0.94      9745
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.13s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.89      0.94      9609
+           1       0.90      1.00      0.94      9719
+
+    accuracy                           0.94     19328
+   macro avg       0.95      0.94      0.94     19328
+weighted avg       0.95      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.07s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.93      9620
+           1       0.89      1.00      0.94      9708
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.06s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.94      9714
+           1       0.89      1.00      0.94      9614
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+First hidden Dim=512, LR=0.001, Avg Accuracy=0.9380
+test:  10
+100%|██████████| 5/5 [00:25<00:00,  5.10s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.93      9794
+           1       0.89      1.00      0.94      9534
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.10s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.88      0.93      9583
+           1       0.90      0.99      0.94      9745
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.12s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.89      0.93      9609
+           1       0.90      0.99      0.94      9719
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.04s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.89      0.93      9620
+           1       0.90      0.98      0.94      9708
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.13s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.93      9714
+           1       0.89      1.00      0.94      9614
+
+    accuracy                           0.94     19328
+   macro avg       0.94      0.94      0.94     19328
+weighted avg       0.94      0.94      0.94     19328
+
+First hidden Dim=512, LR=0.001, Avg Accuracy=0.9369
+Best Model: First Hidden Dim=32, LR=0.001, Weight Decay=0.0001, Accuracy=0.9385
+UNDER_RANDOM_OVER_SMOTE
+label == 1:  48320
+label == 0:  48320
+test:  1
+100%|██████████| 5/5 [00:21<00:00,  4.38s/it]
+              precision    recall  f1-score   support
+
+           0       0.96      0.78      0.86      9794
+           1       0.81      0.96      0.88      9534
+
+    accuracy                           0.87     19328
+   macro avg       0.88      0.87      0.87     19328
+weighted avg       0.88      0.87      0.87     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.49s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.76      0.86      9583
+           1       0.81      0.99      0.89      9745
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.41s/it]
+              precision    recall  f1-score   support
+
+           0       0.96      0.78      0.86      9609
+           1       0.81      0.97      0.88      9719
+
+    accuracy                           0.87     19328
+   macro avg       0.89      0.87      0.87     19328
+weighted avg       0.89      0.87      0.87     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.35s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.76      0.86      9620
+           1       0.81      0.99      0.89      9708
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.36s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.76      0.87      9714
+           1       0.81      1.00      0.89      9614
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+First hidden Dim=32, LR=0.001, Avg Accuracy=0.8766
+test:  2
+100%|██████████| 5/5 [00:21<00:00,  4.33s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.78      0.87      9794
+           1       0.81      0.98      0.89      9534
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.88      0.88     19328
+weighted avg       0.89      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.48s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.77      0.86      9583
+           1       0.81      0.98      0.89      9745
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.87      0.87     19328
+weighted avg       0.89      0.88      0.87     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.35s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.76      0.86      9609
+           1       0.81      0.99      0.89      9719
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.35s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.78      0.86      9620
+           1       0.82      0.98      0.89      9708
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.88      0.88     19328
+weighted avg       0.89      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.37s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.77      0.86      9714
+           1       0.81      0.99      0.89      9614
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+First hidden Dim=32, LR=0.001, Avg Accuracy=0.8772
+test:  3
+100%|██████████| 5/5 [00:21<00:00,  4.36s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.78      0.86      9794
+           1       0.81      0.97      0.88      9534
+
+    accuracy                           0.87     19328
+   macro avg       0.89      0.88      0.87     19328
+weighted avg       0.89      0.87      0.87     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.35s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.77      0.87      9583
+           1       0.81      0.99      0.89      9745
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.37s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.76      0.86      9609
+           1       0.81      0.99      0.89      9719
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:23<00:00,  4.69s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.77      0.86      9620
+           1       0.81      0.99      0.89      9708
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.37s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.77      0.87      9714
+           1       0.81      0.99      0.89      9614
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+First hidden Dim=64, LR=0.001, Avg Accuracy=0.8786
+test:  4
+100%|██████████| 5/5 [00:22<00:00,  4.55s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.77      0.87      9794
+           1       0.81      0.99      0.89      9534
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.41s/it]
+              precision    recall  f1-score   support
+
+           0       0.96      0.78      0.86      9583
+           1       0.82      0.97      0.89      9745
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.88      0.88     19328
+weighted avg       0.89      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.35s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.76      0.86      9609
+           1       0.81      0.99      0.89      9719
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.87     19328
+weighted avg       0.90      0.88      0.87     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.36s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.77      0.86      9620
+           1       0.81      0.99      0.89      9708
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.36s/it]
+              precision    recall  f1-score   support
+
+           0       0.96      0.79      0.86      9714
+           1       0.82      0.97      0.89      9614
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.88      0.87     19328
+weighted avg       0.89      0.88      0.87     19328
+
+First hidden Dim=64, LR=0.001, Avg Accuracy=0.8774
+test:  5
+100%|██████████| 5/5 [00:22<00:00,  4.53s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.77      0.87      9794
+           1       0.81      0.99      0.89      9534
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.51s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.78      0.86      9583
+           1       0.82      0.98      0.89      9745
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.88      0.88     19328
+weighted avg       0.89      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:23<00:00,  4.64s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.76      0.86      9609
+           1       0.81      0.98      0.89      9719
+
+    accuracy                           0.87     19328
+   macro avg       0.89      0.87      0.87     19328
+weighted avg       0.89      0.87      0.87     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.37s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.77      0.86      9620
+           1       0.81      0.99      0.89      9708
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.36s/it]
+              precision    recall  f1-score   support
+
+           0       0.96      0.78      0.86      9714
+           1       0.81      0.97      0.89      9614
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.88      0.87     19328
+weighted avg       0.89      0.88      0.87     19328
+
+First hidden Dim=128, LR=0.001, Avg Accuracy=0.8772
+test:  6
+100%|██████████| 5/5 [00:21<00:00,  4.35s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.77      0.87      9794
+           1       0.81      0.99      0.89      9534
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.35s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.78      0.87      9583
+           1       0.82      0.98      0.89      9745
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.36s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.77      0.86      9609
+           1       0.81      0.99      0.89      9719
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.38s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.77      0.86      9620
+           1       0.81      0.98      0.89      9708
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.89      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.34s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.77      0.87      9714
+           1       0.81      0.99      0.89      9614
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+First hidden Dim=128, LR=0.001, Avg Accuracy=0.8789
+test:  7
+100%|██████████| 5/5 [00:22<00:00,  4.55s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.78      0.87      9794
+           1       0.81      0.98      0.89      9534
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.46s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.76      0.86      9583
+           1       0.81      1.00      0.89      9745
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.45s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.76      0.86      9609
+           1       0.81      0.99      0.89      9719
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.38s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.78      0.86      9620
+           1       0.82      0.97      0.89      9708
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.88      0.88     19328
+weighted avg       0.89      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:22<00:00,  4.40s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.78      0.86      9714
+           1       0.81      0.97      0.89      9614
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.88      0.87     19328
+weighted avg       0.89      0.88      0.87     19328
+
+First hidden Dim=256, LR=0.001, Avg Accuracy=0.8779
+test:  8
+100%|██████████| 5/5 [00:21<00:00,  4.38s/it]
+              precision    recall  f1-score   support
+
+           0       0.91      0.80      0.85      9794
+           1       0.82      0.92      0.87      9534
+
+    accuracy                           0.86     19328
+   macro avg       0.87      0.86      0.86     19328
+weighted avg       0.87      0.86      0.86     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.35s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.77      0.87      9583
+           1       0.81      1.00      0.89      9745
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.37s/it]
+              precision    recall  f1-score   support
+
+           0       0.94      0.79      0.86      9609
+           1       0.82      0.95      0.88      9719
+
+    accuracy                           0.87     19328
+   macro avg       0.88      0.87      0.87     19328
+weighted avg       0.88      0.87      0.87     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.40s/it]
+              precision    recall  f1-score   support
+
+           0       1.00      0.76      0.86      9620
+           1       0.81      1.00      0.89      9708
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:21<00:00,  4.38s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.77      0.86      9714
+           1       0.81      0.99      0.89      9614
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+First hidden Dim=256, LR=0.001, Avg Accuracy=0.8741
+test:  9
+100%|██████████| 5/5 [00:25<00:00,  5.10s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.77      0.86      9794
+           1       0.81      0.98      0.89      9534
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.07s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.77      0.86      9583
+           1       0.82      0.98      0.89      9745
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.07s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.76      0.86      9609
+           1       0.81      0.99      0.89      9719
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:26<00:00,  5.21s/it]
+              precision    recall  f1-score   support
+
+           0       0.94      0.79      0.86      9620
+           1       0.82      0.95      0.88      9708
+
+    accuracy                           0.87     19328
+   macro avg       0.88      0.87      0.87     19328
+weighted avg       0.88      0.87      0.87     19328
+
+100%|██████████| 5/5 [00:26<00:00,  5.30s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.78      0.86      9714
+           1       0.81      0.97      0.89      9614
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.88      0.87     19328
+weighted avg       0.89      0.88      0.87     19328
+
+First hidden Dim=512, LR=0.001, Avg Accuracy=0.8759
+test:  10
+100%|██████████| 5/5 [00:25<00:00,  5.18s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.78      0.87      9794
+           1       0.81      0.98      0.89      9534
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.06s/it]
+              precision    recall  f1-score   support
+
+           0       0.98      0.77      0.87      9583
+           1       0.82      0.99      0.89      9745
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.07s/it]
+              precision    recall  f1-score   support
+
+           0       0.97      0.77      0.86      9609
+           1       0.81      0.98      0.88      9719
+
+    accuracy                           0.87     19328
+   macro avg       0.89      0.87      0.87     19328
+weighted avg       0.89      0.87      0.87     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.11s/it]
+              precision    recall  f1-score   support
+
+           0       0.96      0.78      0.86      9620
+           1       0.82      0.97      0.89      9708
+
+    accuracy                           0.88     19328
+   macro avg       0.89      0.87      0.87     19328
+weighted avg       0.89      0.88      0.87     19328
+
+100%|██████████| 5/5 [00:25<00:00,  5.17s/it]
+              precision    recall  f1-score   support
+
+           0       0.99      0.77      0.87      9714
+           1       0.81      0.99      0.89      9614
+
+    accuracy                           0.88     19328
+   macro avg       0.90      0.88      0.88     19328
+weighted avg       0.90      0.88      0.88     19328
+
+First hidden Dim=512, LR=0.001, Avg Accuracy=0.8774
+Best Model: First Hidden Dim=128, LR=0.001, Weight Decay=1e-05, Accuracy=0.8789
